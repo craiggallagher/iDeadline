@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">iDeadline</string>
+    <string name="title_activity_news">news</string>
+    <string name="title_activity_study_notes">StudyNotes</string>
+    <string name="title_activity_Menu">Menu</string>
+    <string name="title_activity_ListDeadlines">Deadlines</string>
+    <string name="title_activity_LogIn">Log In</string>
+</resources>
